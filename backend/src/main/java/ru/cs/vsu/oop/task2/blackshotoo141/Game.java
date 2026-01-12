@@ -395,7 +395,8 @@ public class Game {
             return prop.getName();
         }
         return "Неизвестная позиция";
-    }
+    }}
 
 /**
  * Основной метод для
+ **/
