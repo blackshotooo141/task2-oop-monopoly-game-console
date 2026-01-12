@@ -1,4 +1,4 @@
-package monopoly;
+package ru.cs.vsu.oop.task2.blackshotoo141;
 
 import java.util.ArrayList;
 import java.util.List;
